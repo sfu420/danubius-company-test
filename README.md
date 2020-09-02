@@ -2,7 +2,7 @@
 
 - The available time is 60 minutes
 - Don't worry if you can't finish everything. Try to do as much as possible.
-- You might not use any kind of help(internet, other people, etc..).
+- You might not use any kind of help (internet, other people, etc..).
 Try to imagine that you are taking this test offline on a paper.
 - You might not ask questions during the test
 
