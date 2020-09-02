@@ -54,15 +54,15 @@ Those that doesn't have a metric prefix.
 
 ### Task
 
-Create a data structure(could be a class but also
+Create a data structure (could be a class but also
 any type of combination of primitive types, array,
 but also the series of well named variables) which
 is suitable to store the values in the table and
-makes the implementation of the exercises below easier(You don't have to
+makes the implementation of the exercises below easier (You don't have to
 implement the actual operations they are just there
 as an example).
 
-- List a given type(e.g.: Length) of measurement units.
+- List a given type (e.g.: Length) of measurement units.
 For example: mm, cm, dm, m, km
 - Query of the multipliers.
 For example: input -> km, output -> 1000
